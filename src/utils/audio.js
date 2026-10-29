@@ -89,3 +89,4 @@ export function playSound(type = 'click', enabled = true) {
     console.warn('Audio play error (non-fatal):', e);
   }
 }
+

@@ -393,3 +393,4 @@ export default function ClaimedEnquiriesView({ onInspectEnquiry, onGoToPublic })
     </div>
   );
 }
+
